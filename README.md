@@ -8,6 +8,7 @@ This Django project provides an API for performing word frequency analysis on Wi
    
    git clone <repository-url>
    cd <repository-directory>
+\n
 2 **Create and activate a virtual environment**
     python -m venv venv
     source venv/bin/activate   # On Windows: .\venv\Scripts\activate
